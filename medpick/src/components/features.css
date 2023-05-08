@@ -1,0 +1,29 @@
+
+
+#features{
+
+width: 664px;
+height: 548px;
+
+background: #004F95;
+/* bg box shadow */
+
+box-shadow: 0px 4px 8px -2px rgba(0, 79, 149, 0.25);
+border-radius: 30px;
+}
+
+
+#featureText{
+    color: white;
+}
+
+
+#innerDiv{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+}
+
+img{
+    margin-top: 50px;
+   margin: 30px;
+}

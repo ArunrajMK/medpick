@@ -1,0 +1,23 @@
+
+
+
+
+
+
+#main_container{
+    margin: 30px;
+    gap: 20px;
+display: flex;
+}
+
+
+
+ @media screen and (max-width: 670px) {
+    #main_container{
+        margin: 30px;
+        gap: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+    
+} 

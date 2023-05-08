@@ -1,0 +1,120 @@
+
+
+#signin_container{
+    width: 664px;
+height: 548px;
+background: #F0F8FF;
+border-radius: 30px;
+}
+
+input{
+
+width: 357px;
+height: 32px;
+margin-bottom: 20px;
+}
+
+button{
+    cursor: pointer;
+    font-family: 'Poppins';
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 30px;
+    width: 357px;
+    height: 32px;
+    color:white;
+    /* primary */
+    
+    background: #004F95;
+    box-shadow: 0px 4px 4px -2px rgba(0, 79, 149, 0.25);
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+#form_div{
+    margin: auto;
+ 
+    width: 360px;
+}
+
+#label{
+  
+    text-align: left;
+      float:left;
+         font-family: 'Poppins';
+}
+
+#box{
+    margin: auto;
+}
+
+#signText{
+
+    width: 81px;
+    height: 36px;
+    margin: auto;
+    margin-top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    
+    
+    /* secondary */
+    
+    color: #F78117;
+    
+}
+
+#signText2{
+    width: 279px;
+height: 36px;
+text-align: left;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+/* primary */
+
+color: #004F95;
+}
+
+#signUpNow{
+   
+    width: 224px;
+height: 24px;
+margin: auto;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #7A7A7A;
+
+}
+
+
+
+span{
+    color: #F78117;
+    cursor: pointer;
+}
+
+
+form{
+    margin-top: 40px;
+}
+
+
+
+
